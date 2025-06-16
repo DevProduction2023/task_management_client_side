@@ -29,6 +29,8 @@ A full-stack task management application where users can register/login using em
 - Express.js
 - JWT for authentication
 
+  ---
+
 ## ⚙️ Installation & Setup
 
 ### 1. Clone the Repository
@@ -41,22 +43,24 @@ npm install
 npm run dev
 
 ## Setup Backend
-Note: Assuming your backend is in a separate folder or repo. If not, update instructions accordingly.
+- Note: Assuming your backend is in a separate folder or repo. If not, update instructions accordingly.
 cd backend
 npm install
 node index.js
 
+---
+
 ## 🔐 Authentication
-Auth is handled via Firebase Auth with JWT tokens.
+- Auth is handled via Firebase Auth with JWT tokens.
 
 ## 🧲 Drag & Drop Mechanics
-Tasks are draggable across priority levels: Low, Medium, High.
-Tasks can be moved to other lists by hovering for 1 second over a target list.
-Implemented in Drap&Drop.jsx, TaskCard.jsx, and ListAndTask.jsx.
+- Tasks are draggable across priority levels: Low, Medium, High.
+- Tasks can be moved to other lists by hovering for 1 second over a target list.
+- Implemented in Drap&Drop.jsx, TaskCard.jsx, and ListAndTask.jsx.
 
 ## 📌 Todos
- Add user profile management
- Implement due dates and reminders
- Improve mobile responsiveness
- Add unit and integration tests
+- Add user profile management
+- Implement due dates and reminders
+- Improve mobile responsiveness
+- Add unit and integration tests
 
