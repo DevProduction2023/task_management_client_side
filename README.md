@@ -28,6 +28,7 @@ A full-stack task management application where users can register/login using em
 - Node.js
 - Express.js
 - JWT for authentication
+- MongoDB 
 
   ---
 
