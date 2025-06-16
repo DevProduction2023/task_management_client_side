@@ -16,7 +16,7 @@ app.use(express.json());
 app.use(cookieParser());
 
 app.use(cors({
-    origin: "https://task-management-client-5a04okinx-shivs-projects-0bdf001e.vercel.app", 
+    origin: "https://task-management-client-omega.vercel.app", 
     credentials: true,
 }));
 
