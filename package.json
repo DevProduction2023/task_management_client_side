@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "local": "nodemon server_local.js",
+    "local": "node server_local.js",
     "live": "nodemon server_live.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
