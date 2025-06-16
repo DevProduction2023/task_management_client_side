@@ -35,7 +35,7 @@ A full-stack task management application where users can register/login using em
 ## ⚙️ Installation & Setup
 
 ### 1. Clone the Repository
-git clone https://github.com/your-username/task-manager-app.git
+After Clone , 
 cd task-manager-app
 
 ## Setup Frontend
